@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897154351826",
+    "project_id": "scrollingshooter-a4acf",
+    "storage_bucket": "scrollingshooter-a4acf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897154351826:android:de71a5be02f4be6ebda30b",
+        "android_client_info": {
+          "package_name": "com.example.scrollingshooter_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPsNwzHcIYVbOQ9RaoYR_Id5IrgmAi9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
